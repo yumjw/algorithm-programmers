@@ -1,4 +1,4 @@
-reated by https://www.toptal.com/developers/gitignore/api/pycharm,jupyternotebooks
+
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm,jupyternotebooks
 
 ### JupyterNotebooks ###
@@ -25,7 +25,8 @@ ipython_config.py
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-
+.idea
+.idea/
 # Generated files
 .idea/**/contentModel.xml
 

@@ -12,6 +12,7 @@ def solution(numbers):
     return ''.join(answer)
 
 
+
 # Recommend Answer - list sort method by lambda
 def solution_lambda(numbers):
     numbers = list(map(str, numbers))

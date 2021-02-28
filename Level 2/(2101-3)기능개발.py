@@ -25,6 +25,7 @@ def solution_d(progresses, speeds):
     answer.append(delayed_deploy + 1)
     return answer
 
+
 # Answer
 def solution(progresses, speeds):
     remaining_progress = map(lambda x: 100 - x, progresses)
